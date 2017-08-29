@@ -1,0 +1,6 @@
+[submodule "modules/x-superobject"]
+	path = modules/x-superobject
+	url = https://github.com/onryldz/x-superobject.git
+[submodule "modules/DJSON"]
+	path = modules/DJSON
+	url = https://github.com/mauriziodm/DJSON.git
